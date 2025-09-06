@@ -6,14 +6,13 @@ An application built using Next.js and Supabase.
 
 - **Authentication**: User login and registration powered by Supabase Auth.
 	- Login User
-	-> Login User
-	-> Sign up User
-	-> Forgot Password
-	-> Reset Password
+ 	- Sign up User
+  	- Forgot Password
+  	- Reset Password 
 - **Database**: Store and manage data using Supabase's Postgres database.
-	-> Supabase (Database-as-a-service)
+	- Supabase (Database-as-a-service)
 - **Tailwind CSS**: Modern styling with utility-first CSS framework.
-	-> Example Component using Shadcn UI 
+	- Example Component using Shadcn UI
 
 ## Getting Started
 
