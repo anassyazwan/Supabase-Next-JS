@@ -5,6 +5,7 @@ An application built using Next.js and Supabase.
 ## Features
 
 - **Authentication**: User login and registration powered by Supabase Auth.
+	- Login User
 	-> Login User
 	-> Sign up User
 	-> Forgot Password
